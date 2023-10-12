@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "scripts": {
+    "botonline": "vite-node src/main.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "fast-glob": "^3.3.0",
+    "libsodium-wrappers": "^0.7.11",
+    "node-schedule": "^2.1.1",
+    "pinia": "^2.1.4",
+    "vite-node": "^0.34.3",
+    "vue": "^3.3.4"
+  }
+}
